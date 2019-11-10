@@ -1,0 +1,11 @@
+E:\Programming\Laba\Lava4_Var9\Lava4_Var9\bin\Debug\netcoreapp3.0\Lava4_Var9.exe
+E:\Programming\Laba\Lava4_Var9\Lava4_Var9\bin\Debug\netcoreapp3.0\Lava4_Var9.deps.json
+E:\Programming\Laba\Lava4_Var9\Lava4_Var9\bin\Debug\netcoreapp3.0\Lava4_Var9.runtimeconfig.json
+E:\Programming\Laba\Lava4_Var9\Lava4_Var9\bin\Debug\netcoreapp3.0\Lava4_Var9.runtimeconfig.dev.json
+E:\Programming\Laba\Lava4_Var9\Lava4_Var9\bin\Debug\netcoreapp3.0\Lava4_Var9.dll
+E:\Programming\Laba\Lava4_Var9\Lava4_Var9\bin\Debug\netcoreapp3.0\Lava4_Var9.pdb
+E:\Programming\Laba\Lava4_Var9\Lava4_Var9\obj\Debug\netcoreapp3.0\Lava4_Var9.csprojAssemblyReference.cache
+E:\Programming\Laba\Lava4_Var9\Lava4_Var9\obj\Debug\netcoreapp3.0\Lava4_Var9.AssemblyInfoInputs.cache
+E:\Programming\Laba\Lava4_Var9\Lava4_Var9\obj\Debug\netcoreapp3.0\Lava4_Var9.AssemblyInfo.cs
+E:\Programming\Laba\Lava4_Var9\Lava4_Var9\obj\Debug\netcoreapp3.0\Lava4_Var9.dll
+E:\Programming\Laba\Lava4_Var9\Lava4_Var9\obj\Debug\netcoreapp3.0\Lava4_Var9.pdb
